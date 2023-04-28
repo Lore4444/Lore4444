@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! Soy Lorena 👋
 
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://pixabay.com/es/photos/flores-loto-bot%c3%a1nica-bloom-7945629/
