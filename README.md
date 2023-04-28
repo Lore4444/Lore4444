@@ -1,7 +1,6 @@
-### Hola! Soy Lorena 👋
+Hola! Soy Lorena 👋
 
-
-
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1?color=ff69b4)
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BareTreeMedia-cute-working-panting-TdjQAgDIkRsYm1HUbt">
+
 
 
