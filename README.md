@@ -1,5 +1,7 @@
 ### Hola! Soy Lorena 👋
 
+<iframe src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BareTreeMedia-cute-working-panting-TdjQAgDIkRsYm1HUbt">via GIPHY</a></p>
+
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://pixabay.com/es/photos/flores-loto-bot%c3%a1nica-bloom-7945629/
+
