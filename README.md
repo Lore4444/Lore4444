@@ -1,12 +1,19 @@
-Hola! Soy Lorena 👋
+Hola! Soy Lorena Parodi 👋
 
 ![prueba giphy](https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif)
 
 ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1?color=ff69b4)
 
-Acerca de mi:
+´´´js
+  const Lore4444 = {
+  tecnologias:
+}
+´´´
 
-![](https://github.com/Lore4444/IMAGENES/blob/main/whatsapp.jpg) 54 9 261 5754439
+Puedes contactarme en:
+
+- [Mail](lorenaparodi@hotmail.com) 
+- [WhatsApp](5492615754439)
 
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
