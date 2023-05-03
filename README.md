@@ -1,8 +1,11 @@
 Hola! Soy Lorena 👋
 
-![prueba de imagen](https://github.com/Lore4444/IMAGENES/blob/main/flores.jpg)
+![prueba giphy](https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif)
 
 ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1?color=ff69b4)
+
+
+
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
