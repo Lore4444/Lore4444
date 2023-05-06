@@ -21,13 +21,12 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
 ## Habilidades:
 
   - Lenguajes de programacion:
-  
-![](https://github.com/Lore4444/IMAGENES/blob/main/java_original_wordmark_logo_icon_146459.jpg)
 
-![](https://github.com/Lore4444/IMAGENES/blob/main/java.jpg)
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/java.jpg)
 
   - Herramientas de control de versiones:
-  github
+  
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/icons8-github-64.jpg)
   
   - Idiomas:
   
