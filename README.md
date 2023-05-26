@@ -30,12 +30,15 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
   
   - Idiomas:
   
-  ![](https://img.shields.io/badge/Ingles-Basico-blue)   ![](https://img.shields.io/badge/Japones-B1-green)
+  ![](https://img.shields.io/static/v1?label=INGLES&message=Basico&color=ff69b4)
+  ![](https://img.shields.io/static/v1?label=JAPONES&message=B1&color=blueviolet)
   
+## Estadisticas:
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lore4444&show_icons=true&theme=jolly)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lore4444&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lore4444&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lore4444&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lore4444&theme=ambient-gradient)](https://git.io/streak-stats)
   
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
