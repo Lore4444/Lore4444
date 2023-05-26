@@ -8,7 +8,7 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
 
 
  
-![GitHub Gist last commit](https://img.shields.io/github/last-commit/Lore4444/JAVA_COLLECTIONS?color=ff69b4&style=plastic)
+
   </div>
 
 ## Sobre mi:
@@ -31,6 +31,11 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
   - Idiomas:
   
   ![](https://img.shields.io/badge/Ingles-Basico-blue)   ![](https://img.shields.io/badge/Japones-B1-green)
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lore4444&show_icons=true&theme=synthwave)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lore4444&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **Lore4444/Lore4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
