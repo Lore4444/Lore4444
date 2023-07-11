@@ -12,8 +12,8 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
   </div>
 
 ## Sobre mi:
-  
-  - Vivo en Mendoza, Argentina.
+
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/lugar3.gif) Vivo en Mendoza, Argentina.
   - Actualmente estoy estudiando full stack en [Egg Academy](https://eggcooperation.com/es-ar)
   - Puedes comunicarte conmigo [Mail](lorenaparodi@hotmail.com) / [WhatsApp](5492615754439) 
 
