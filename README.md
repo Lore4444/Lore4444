@@ -16,7 +16,8 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
   ![](https://github.com/Lore4444/IMAGENES/blob/main/lugar3.gif) Vivo en Mendoza, Argentina.
   
   ![](https://github.com/Lore4444/IMAGENES/blob/main/lapiz.gif) Preparandome para ser Desarrollador Full Stack en [Egg Academy](https://eggcooperation.com/es-ar)
-  - Puedes comunicarte conmigo [Mail](lorenaparodi@hotmail.com) / [WhatsApp](5492615754439) 
+
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/carta.gif) Puedes comunicarte conmigo [Mail](lorenaparodi@hotmail.com) / [WhatsApp](5492615754439) 
 
 
 ## Habilidades:
