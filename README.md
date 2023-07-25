@@ -33,7 +33,7 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
 
   - Herramientas de control de versiones:
   
-  ![](https://github.com/Lore4444/IMAGENES/blob/main/icons8-github-64.jpg)
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/github.png)
   
   - Idiomas:
   
