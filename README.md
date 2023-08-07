@@ -22,10 +22,11 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
 
 ## Habilidades:
 
-  - Lenguajes de programacion y marcado:
+  - Lenguajes Fronted y Backend:
 
   ![](https://github.com/Lore4444/IMAGENES/blob/main/java.png)
   ![](https://github.com/Lore4444/IMAGENES/blob/main/html.png)
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/css.png)
 
   - Base de datos:
 
