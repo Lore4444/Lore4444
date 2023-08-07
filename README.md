@@ -27,6 +27,7 @@ Soy una estudiante de programacion que comienza a descubrir el fantastico mundo 
   ![](https://github.com/Lore4444/IMAGENES/blob/main/java.png)
   ![](https://github.com/Lore4444/IMAGENES/blob/main/html.png)
   ![](https://github.com/Lore4444/IMAGENES/blob/main/css.png)
+  ![](https://github.com/Lore4444/IMAGENES/blob/main/javascript.png)
 
   - Base de datos:
 
